@@ -3,4 +3,5 @@
 - Chickpeas
 - Lime
 - Garlic
+- Tahini
 ## Instructions
