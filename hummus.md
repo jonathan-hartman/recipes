@@ -2,4 +2,5 @@
 ## Ingredients
 - Chickpeas
 - Lime
+- Tahini
 ## Instructions
