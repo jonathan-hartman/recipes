@@ -7,5 +7,5 @@
 
 ## Pecan Pie
 ### Ingredients
-- pecens
+- pecans
 - corn syrup
