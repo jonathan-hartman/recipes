@@ -5,3 +5,4 @@
 * salt (2)
 ## Instructions
 * peel the avocados and put them into a bowl.
+* squeeze the juice of the lime into the bowl.
