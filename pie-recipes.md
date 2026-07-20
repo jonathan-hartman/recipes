@@ -9,3 +9,5 @@
 ### Ingredients
 - pecans
 - corn syrup
+### Instructions
+1. Preheat oven to 350F.
